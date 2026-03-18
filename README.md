@@ -8,7 +8,7 @@
 # Installation
 
 ```
-git clone https://github.com/Eeshaan-rando/st
+git clone https://github.com/yac-d/st/
 cd st
 sudo make clean install
 ```
